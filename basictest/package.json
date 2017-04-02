@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node test2.js"
+  },
+  "dependencies": {
+    "viz.js": "~1.7.1",
+    "svg2png": "~4.1.1"
+  }
+}
